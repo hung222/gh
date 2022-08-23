@@ -1,1 +1,1 @@
-web:gunicorn toiyeugiachoi.wsgi
+web: gunicorn toiyeugiachoi.wsgi
